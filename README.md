@@ -1,4 +1,4 @@
-# Testes-Machine-Learning-Python
+# UsandoMachineLearning-Projetos
 Repositório criado para armazenar testes realizados na área de Machine Learning, usando ferramentas como Python, Tensorflow e R. <br/>
 Caso haja interesse na área, conheça os sites, me ajudaram no desenvolvimento: <br/>
 Python
